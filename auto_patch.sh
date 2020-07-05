@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Script Name: auto_patch.sh 
-# Description: This script will be called by start_patch.sh script and will perform automatic patching
-# Author: shamril@my.ibm.com
+# Description: This script will be called by start_patch.sh script and will perform automatic (minimal interactive) patching for Red Hat server
+# Author: ashamril@gmail.com
 # Date: 28th June 2020
 
 SERVER_IP=$1
