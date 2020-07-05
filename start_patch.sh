@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Script Name: start_patch.sh 
-# Description: This script will start the patching by creating screen session for the server and executed auto_patch.sh script
-# Author: shamril@my.ibm.com
+# Description: This script will start the patching by creating screen session for Red Hat server and executed auto_patch.sh script
+# Author: ashamril@gmail.com
 # Date: 28th June 2020
 
 DATE=$(date +"%Y%m%d-%H%M%S")
